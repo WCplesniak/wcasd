@@ -1,57 +1,57 @@
 [
   {
     "NAME": "West Chester East High School",
-    "principalemail": "sbrown@wcasd.net",
+    "principalemail": "sbrown",
     "PRINCIPAL": "Dr. Stephen L. Brown"
   },
   {
     "NAME": "B. Reed Henderson High School",
-    "principalemail": "jsherlock@wcasd.net",
+    "principalemail": "jsherlock",
     "PRINCIPAL": "Dr. Jason Sherlock"
   },
   {
     "NAME": "Bayard Rustin High School",
-    "principalemail": "mmarano@wcasd.net",
+    "principalemail": "mmarano",
     "PRINCIPAL": "Dr. Michael Marano"
   },
   {
     "NAME": "J. R. Fugett Middle School",
-    "principalemail": "swerner@wcasd.net",
+    "principalemail": "swerner",
     "PRINCIPAL": "Dr. Steven Werner"
   },
   {
     "NAME": "E. N. Peirce Middle School",
-    "principalemail": "jdiantonio@wcasd.net",
+    "principalemail": "jdiantonio",
     "PRINCIPAL": "Joseph DiAntonio"
   },
   {
     "NAME": "G. A. Stetson Middle School",
-    "principalemail": "mpuchalla@wcasd.net",
+    "principalemail": "mpuchalla",
     "PRINCIPAL": "Mary Kay Puchalla"
   },
   {
     "NAME": "East Bradford Elementary School",
-    "principalemail": "calston@wcasd.net",
+    "principalemail": "calston",
     "PRINCIPAL": "Dr. Christopher Alston"
   },
   {
     "NAME": "East Goshen Elementary School",
-    "principalemail": "tseidenberger@wcasd.net",
+    "principalemail": "tseidenberger",
     "PRINCIPAL": "Thomas Seidenberger"
   },
   {
     "NAME": "Exton Elementary School",
-    "principalemail": "kbulgarelli@wcasd.net",
+    "principalemail": "kbulgarelli",
     "PRINCIPAL": "Kristin Bulgarelli"
   },
   {
     "NAME": "Fern Hill Elementary School",
-    "principalemail": "jsouthmayd@wcasd.net",
+    "principalemail": "jsouthmayd",
     "PRINCIPAL": "Jennifer Southmayd"
   },
   {
     "NAME": "Glen Acres Elementary School",
-    "principalemail": "Dryan@wcasd.net",
+    "principalemail": "Dryan",
     "PRINCIPAL": "Donna Ryan"
   },
   {
@@ -61,27 +61,27 @@
   },
   {
     "NAME": "Hillsdale Elementary School",
-    "principalemail": "PMerten@wcasd.net",
+    "principalemail": "PMerten",
     "PRINCIPAL": "Paige Merten"
   },
   {
     "NAME": "Mary C. Howse Elementary School",
-    "principalemail": "jpavlo@wcasd.net",
+    "principalemail": "jpavlo",
     "PRINCIPAL": "Jackie Pavlo"
   },
   {
     "NAME": "Penn Wood Elementary School",
-    "principalemail": "MGarvin@wcasd.net",
+    "principalemail": "MGarvin",
     "PRINCIPAL": "Dr. Michael Garvin"
   },
   {
     "NAME": "Sarah Starkweather Elementary School",
-    "principalemail": "jmeanix@wcasd.net",
+    "principalemail": "jmeanix",
     "PRINCIPAL": "John Meanix"
   },
   {
     "NAME": "Westtown Thornbury Elementary School",
-    "principalemail": "scruice@wcasd.net",
+    "principalemail": "scruice",
     "PRINCIPAL": "Dr. Shawn Cruice"
   }
 ]
