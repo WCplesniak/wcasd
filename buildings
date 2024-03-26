@@ -1,87 +1,104 @@
 [
   {
-    "NAME": "West Chester East High School",
+    "name": "West Chester East High School",
     "principalemail": "sbrown",
-    "PRINCIPAL": "Dr. Stephen L. Brown"
+    "principal": "Dr. Stephen L. Brown",
+    "pa_schoolnum": 6734
   },
   {
-    "NAME": "B. Reed Henderson High School",
+    "name": "B. Reed Henderson High School",
     "principalemail": "jsherlock",
-    "PRINCIPAL": "Dr. Jason Sherlock"
+    "principal": "Dr. Jason Sherlock",
+    "pa_schoolnum": 1453
   },
   {
-    "NAME": "Bayard Rustin High School",
+    "name": "Bayard Rustin High School",
     "principalemail": "mmarano",
-    "PRINCIPAL": "Dr. Michael Marano"
+    "principal": "Dr. Michael Marano",
+    "pa_schoolnum": 7894
   },
   {
-    "NAME": "J. R. Fugett Middle School",
+    "name": "J. R. Fugett Middle School",
     "principalemail": "swerner",
-    "PRINCIPAL": "Dr. Steven Werner"
+    "principal": "Dr. Steven Werner",
+    "pa_schoolnum": 5137
   },
   {
-    "NAME": "E. N. Peirce Middle School",
+    "name": "E. N. Peirce Middle School",
     "principalemail": "jdiantonio",
-    "PRINCIPAL": "Joseph DiAntonio"
+    "principal": "Joseph DiAntonio",
+    "pa_schoolnum": 1452
   },
   {
-    "NAME": "G. A. Stetson Middle School",
+    "name": "G. A. Stetson Middle School",
     "principalemail": "mpuchalla",
-    "PRINCIPAL": "Mary Kay Puchalla"
+    "principal": "Mary Kay Puchalla",
+    "pa_schoolnum": 1451
   },
   {
-    "NAME": "East Bradford Elementary School",
+    "name": "East Bradford Elementary School",
     "principalemail": "calston",
-    "PRINCIPAL": "Dr. Christopher Alston"
+    "principal": "Dr. Christopher Alston",
+    "pa_schoolnum": 1392
   },
   {
-    "NAME": "East Goshen Elementary School",
+    "name": "East Goshen Elementary School",
     "principalemail": "tseidenberger",
-    "PRINCIPAL": "Thomas Seidenberger"
+    "principal": "Thomas Seidenberger",
+    "pa_schoolnum": 1395
   },
   {
-    "NAME": "Exton Elementary School",
+    "name": "Exton Elementary School",
     "principalemail": "kbulgarelli",
-    "PRINCIPAL": "Kristin Bulgarelli"
+    "principal": "Kristin Bulgarelli",
+    "pa_schoolnum": 1456
   },
   {
-    "NAME": "Fern Hill Elementary School",
+    "name": "Fern Hill Elementary School",
     "principalemail": "jsouthmayd",
-    "PRINCIPAL": "Jennifer Southmayd"
+    "principal": "Jennifer Southmayd",
+    "pa_schoolnum": 1454
   },
   {
-    "NAME": "Glen Acres Elementary School",
+    "name": "Glen Acres Elementary School",
     "principalemail": "Dryan",
-    "PRINCIPAL": "Donna Ryan"
+    "principal": "Donna Ryan",
+    "pa_schoolnum": 4812
   },
   {
-    "NAME": "Greystone Elementary School",
-    "principalemail": "krfagen@wcasd.net",
-    "PRINCIPAL": "Dr. Kevin Fagan"
+    "name": "Greystone Elementary School",
+    "principalemail": "krfagen",
+    "principal": "Dr. Kevin Fagan",
+    "pa_schoolnum": 8491
   },
   {
-    "NAME": "Hillsdale Elementary School",
+    "name": "Hillsdale Elementary School",
     "principalemail": "PMerten",
-    "PRINCIPAL": "Paige Merten"
+    "principal": "Paige Merten",
+    "pa_schoolnum": 6910
   },
   {
-    "NAME": "Mary C. Howse Elementary School",
+    "name": "Mary C. Howse Elementary School",
     "principalemail": "jpavlo",
-    "PRINCIPAL": "Jackie Pavlo"
+    "principal": "Jackie Pavlo",
+    "pa_schoolnum": 1457
   },
   {
-    "NAME": "Penn Wood Elementary School",
+    "name": "Penn Wood Elementary School",
     "principalemail": "MGarvin",
-    "PRINCIPAL": "Dr. Michael Garvin"
+    "principal": "Dr. Michael Garvin",
+    "pa_schoolnum": 4813
   },
   {
-    "NAME": "Sarah Starkweather Elementary School",
+    "name": "Sarah Starkweather Elementary School",
     "principalemail": "jmeanix",
-    "PRINCIPAL": "John Meanix"
+    "principal": "John Meanix",
+    "pa_schoolnum": 7324
   },
   {
-    "NAME": "Westtown Thornbury Elementary School",
+    "name": "Westtown Thornbury Elementary School",
     "principalemail": "scruice",
-    "PRINCIPAL": "Dr. Shawn Cruice"
+    "principal": "Dr. Shawn Cruice",
+    "pa_schoolnum": 1458
   }
 ]
